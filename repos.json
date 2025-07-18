@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "bbkedu_H7000",
+      "repo": "https://github.com/LINGJP/android_kernel_bbkedu_H7000",
+      "branch": "mkp",
+      "device": "H7000"
     },
     "withKernelSU": true,
     "toolchains": [
